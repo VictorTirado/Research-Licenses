@@ -51,6 +51,10 @@ For software to be free has to accomplish these four freedoms:
 - **Distribute**: The freedom to distribute copies, being able to help others.
 - **Improve**: The freedom to make and distribute copies of your modified versions of the program.
 
+|Advantage|Disadvantages|
+|:---------:|:---------:|
+|Constant updates|No guarantee by the author|
+|Reduced cost|Little market structure|
 
 ### Open source:
 In 1998 a group of people, among them Bruce Perens or Eric Steven Raymond, created open source, in protest against the ethics that Richard Stallman wanted to transmit. While it is true that both free software and open source want to reach the same goal, get the open code succeed more than the private, they do it in different ways.
@@ -99,6 +103,13 @@ For the owner's license, the user pays not to get the program but his activation
 This software can be obtained in more than one way:
 - **In a single payment**: The case of Windows, the user pays when buying the computer and in case an update is removed, the Windows that user has will be updated without any cost.
 - **Monthly**: Programs such as Creative Cloud, when hiring this service the user is given the license to access all their programs for a certain amount of time. Once it expires, you must pay again if you want to continue using them.
+
+|Advantage|Disadvantages|
+|:---------:|:---------:|
+|Ease of acquisition| Unable to copy|
+| Greater compatibility with the software |  The cost of the application is greater| 
+|Greater protection of copyrighted works|It can not be modified|
+
 
 ![WINDOW](https://c.s-microsoft.com/es-es/CMSImages/Windows_Homepage_Icon_OS_1920.jpg?version=5ed8b4a9-95b2-f795-62c8-e0bc2ade742a)
 ![CC](http://iconshow.me/media/images/social/flat-style-Metro-UI-Icons/Applications/png/256/MetroUI-Adobe-Creative-Cloud.png)
