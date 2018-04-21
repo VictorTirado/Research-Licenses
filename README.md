@@ -12,6 +12,10 @@ subject Project 2, under supervision of lecturer
   * [Free Software]()
   * [Open Source]()
   * [Copyleft]()
+  * [BSD]()
+  * [MPL]()
+  * [Software with Public Domain]()
+  * [Software Semi-free]
 
 
 ## **What is a license?**
@@ -68,6 +72,16 @@ The copyleft is a legal strategy, "hack", is the strategy of reversing the restr
 For example, if someone creates an open code and applies the copyleft, anyone can access this code, either to study or improve it. Once the new user has a new code and publishes it, that new code will have the same copyleft license, protecting the code so that it remains open.
 
 !["Copyleft"](https://blog.carreralinux.com.ar/wp-content/uploads/2017/10/las-licencias-libres.png)
+
+### BSD:
+The BSD license is one of the most permissive that imposes few restrictions. One of the advantages is the power to market the software freely
+### MPL:
+Very similar to the BSD, this forces you to deliver the code to the original creator with the modifications.
+### Software with Public Domain
+Some say that it can be classified outside of the licenses, since it can be distributed without any type of restriction.
+### Software Semi-free
+As with most licenses, it also allows the user who receives it to copy or even modify it. However, you are not allowed to earn money.
+
 
 
 
