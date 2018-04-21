@@ -15,7 +15,7 @@ subject Project 2, under supervision of lecturer
   * [BSD]()
   * [MPL]()
   * [Software with Public Domain]()
-  * [Software Semi-free]
+  * [Software Semi-free]()
 
 
 ## **What is a license?**
@@ -42,6 +42,8 @@ A software license is a contract between the licensor and the licensee of the co
 ### Free Software:
 
 First of all, to say that free software normally has no cost, although this is not always true. Once this is seen, it is necessary to put a little in context of where this idea comes from
+
+[![IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Richard_Matthew_Stallman.jpeg/220px-Richard_Matthew_Stallman.jpeg)](https://www.youtube.com/watch?v=8SdPLG-_wtA)
 
 For software to be free has to accomplish these four freedoms:
 - **Use**: Run the program as you want.
