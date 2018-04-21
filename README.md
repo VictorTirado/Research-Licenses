@@ -50,8 +50,7 @@ To get a code to be open source you must pass these 10 requirements:
 -	Distribution of the license
 -	The license must not be specific to a product
 -	The license must not restrict other software
--	The license must be technologically neutral:
--	The license must not restrict other software
+-	The license must be technologically neutral
 
 
 ### Copyleft
@@ -59,7 +58,8 @@ When someone does a work automatically, they generate the author's rights, wheth
 The copyleft is a legal strategy, "hack", is the strategy of reversing the restrictions established by copyright or copyright regulations. Applying copyleft, the only restriction imposed is that of not restricting.
 For example, if someone creates an open code and applies the copyleft, anyone can access this code, either to study or improve it. Once the new user has a new code and publishes it, that new code will have the same copyleft license, protecting the code so that it remains open.
 
-!["Copyleft"](https://www.google.es/search?q=ejemplo+copyleft&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjlt-Cp_cvaAhWLbhQKHfolBaYQ_AUICigB&biw=1536&bih=734#imgrc=ufnqV4DFmLtK0M:)
+!["Copyleft"](https://blog.carreralinux.com.ar/wp-content/uploads/2017/10/las-licencias-libres.png) Copyleft simbol
+
 
 
 
