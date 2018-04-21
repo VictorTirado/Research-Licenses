@@ -110,12 +110,27 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ 
+### MIT:
+
+Example of BSD license extracted from [open source](https://opensource.org/licenses/MIT)
+Copyright <YEAR> <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ### MPL:
 Very similar to the BSD, this forces you to deliver the code to the original creator with the modifications.
+
 ### Software with Public Domain:
 Some say that it can be classified outside of the licenses, since it can be distributed without any type of restriction.
+
 ### Software Semi-free:
 As with most licenses, it also allows the user who receives it to copy or even modify it. However, you are not allowed to earn money.
+
 ### Shareware:
 The shareware license allows the user to use the programs for a limited or unlimited time but with restrictions. Therefore this license can be subdivided into:
 - **Trial:** is the name of the payment license that is given to a program that offers all its functions but only for a limited time, forcing the user to buy the license once the time expires.
@@ -126,7 +141,7 @@ The shareware license allows the user to use the programs for a limited or unlim
 ![WOW](https://seeklogo.com/images/W/world-of-warcraft-logo-B9B6FAA0CB-seeklogo.com.jpg)
 ![ARES](http://www.ares.com.es/themes/seo/ares.com.es/images/logo.png)
 
-### Commercial Software License
+### Commercial Software License:
 
 For the owner's license, the user pays not to get the program but his activation license. This software does not belong to you, so you can not change the source code. Apart from this limitation, it can not be distributed without the permission of its owner.
 This software can be obtained in more than one way:
