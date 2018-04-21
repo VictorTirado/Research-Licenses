@@ -27,8 +27,9 @@ A software license is a contract between the licensor and the licensee of the co
 
 ### Free Software:
 
-First of all, to say that free software normally has no cost, although this is not always true. Once this is seen, it is necessary to put a little in context of where this idea comes from.
-In 1985 Richard Stallman founded: “Free Software Foundation” (FSF).
+First of all, to say that free software normally has no cost, although this is not always true. Once this is seen, it is necessary to put a little in context of where this [idea comes from](<iframe width="1519" height="550" src="https://www.youtube.com/embed/8SdPLG-_wtA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>).
+
+![]
 
 For software to be free has to accomplish these four freedoms:
 - **Use**: Run the program as you want.
@@ -58,7 +59,7 @@ When someone does a work automatically, they generate the author's rights, wheth
 The copyleft is a legal strategy, "hack", is the strategy of reversing the restrictions established by copyright or copyright regulations. Applying copyleft, the only restriction imposed is that of not restricting.
 For example, if someone creates an open code and applies the copyleft, anyone can access this code, either to study or improve it. Once the new user has a new code and publishes it, that new code will have the same copyleft license, protecting the code so that it remains open.
 
-!["Copyleft"](https://blog.carreralinux.com.ar/wp-content/uploads/2017/10/las-licencias-libres.png) Copyleft simbol
+!["Copyleft"](https://blog.carreralinux.com.ar/wp-content/uploads/2017/10/las-licencias-libres.png)
 
 
 
