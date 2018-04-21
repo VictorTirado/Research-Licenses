@@ -114,7 +114,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ### MIT:
 
 The MIT license belongs to the free software group, in this permissive case, this means that it places very few limitations. Aside, it does not contain copyleft with what can be picked up by other users and modify it to put it to benefit.
-Example of MIT license extracted from [open source](https://opensource.org/licenses/MIT)
+Example of MIT license extracted from [open source](https://opensource.org/licenses/MIT):
 
 Copyright [YEAR] [COPYRIGHT HOLDER]
 
@@ -126,7 +126,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### MPL:
 Very similar to the BSD, this forces you to deliver the code to the original creator with the modifications.
-Example of MPLicense extracted from [eionet](https://www.eionet.europa.eu/software/license.html)
+Example of MPLicense extracted from [eionet](https://www.eionet.europa.eu/software/license.html):
 
 The contents of this file are subject to the Mozilla Public License Version 1.1 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at 
 http://www.mozilla.org/MPL/ 
