@@ -79,11 +79,19 @@ For example, if someone creates an open code and applies the copyleft, anyone ca
 The BSD license is one of the most permissive that imposes few restrictions. One of the advantages is the power to market the software freely
 ### MPL:
 Very similar to the BSD, this forces you to deliver the code to the original creator with the modifications.
-### Software with Public Domain
+### Software with Public Domain:
 Some say that it can be classified outside of the licenses, since it can be distributed without any type of restriction.
-### Software Semi-free
+### Software Semi-free:
 As with most licenses, it also allows the user who receives it to copy or even modify it. However, you are not allowed to earn money.
+### Shareware:
+The shareware license allows the user to use the programs for a limited or unlimited time but with restrictions. Therefore this license can be subdivided into:
+- **Trial:** is the name of the payment license that is given to a program that offers all its functions but only for a limited time, forcing the user to buy the license once the time expires.
+- **Demo:** The demo concept offers the user, for an unlimited time, most software functions.
+- **Adware:** Are the programs that have all their active functions in exchange for downloading advertising or do not offer their latest version, which needs to be purchased.
 
+![VIRTUAL_DJ](https://images.sftcdn.net/images/t_optimized,f_auto/p/bccf010c-96bf-11e6-a78f-00163ed833e7/1933779231/virtual-dj-logo.png)
+![WOW](https://seeklogo.com/images/W/world-of-warcraft-logo-B9B6FAA0CB-seeklogo.com.jpg)
+![ARES](http://www.ares.com.es/themes/seo/ares.com.es/images/logo.png)
 
 ### Commercial Software License
 
@@ -95,14 +103,6 @@ This software can be obtained in more than one way:
 ![WINDOW](https://c.s-microsoft.com/es-es/CMSImages/Windows_Homepage_Icon_OS_1920.jpg?version=5ed8b4a9-95b2-f795-62c8-e0bc2ade742a)
 ![CC](http://iconshow.me/media/images/social/flat-style-Metro-UI-Icons/Applications/png/256/MetroUI-Adobe-Creative-Cloud.png)
 
-### Shareware
-The shareware license allows the user to use the programs for a limited or unlimited time but with restrictions. Therefore this license can be subdivided into:
-- **Trial:** is the name of the payment license that is given to a program that offers all its functions but only for a limited time, forcing the user to buy the license once the time expires.
-- **Demo:** The demo concept offers the user, for an unlimited time, most software functions.
-- **Adware:** Are the programs that have all their active functions in exchange for downloading advertising or do not offer their latest version, which needs to be purchased.
 
-![VIRTUAL_DJ](https://images.sftcdn.net/images/t_optimized,f_auto/p/bccf010c-96bf-11e6-a78f-00163ed833e7/1933779231/virtual-dj-logo.png)
-![WOW](https://seeklogo.com/images/W/world-of-warcraft-logo-B9B6FAA0CB-seeklogo.com.jpg)
-![ARES](http://www.ares.com.es/themes/seo/ares.com.es/images/logo.png)
 
 
