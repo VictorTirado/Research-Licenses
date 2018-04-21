@@ -17,7 +17,17 @@ subject Project 2, under supervision of lecturer
 ## **What is a license?**
 
 A license is an agreement that allows someone or something to use a service or perform an action as long as they agree to the terms provided in an agreement.
-In a license there are two parts: the licensor and the client. Both must accept the conditions for the deal to be closed. The conditions are those that will be explained below
+In a license there are two parts: the licensor and the client. Both must accept the conditions for the deal to be closed. The conditions are those that will be explained below.
+- Object of contract
+- Price and method of payment
+- Extension of the license 
+- Responsibility
+- Warranty
+- Intellectual property
+- Confidentiality
+- Resolution:
+- Jurisdiction and applicable regulations
+
 
 ## **What is a software license?**
 
@@ -40,16 +50,16 @@ For software to be free has to accomplish these four freedoms:
 In 1998 a group of people, among them Bruce Perens or Eric Steven Raymond, created open source, in protest against the ethics that Richard Stallman wanted to transmit. While it is true that both free software and open source want to reach the same goal, get the open code succeed more than the private, they do it in different ways.
 While it is true that open source seeks more excellence, free software focuses more on user learning.
 
-To get a code to be open source you must pass these 10 requirements:
--	Free redistribution
--	Source code
--	Derived works
--	Integrity of the source code of the author
--	Without discrimination of persons or groups
--	Distribution of the license
--	The license must not be specific to a product
--	The license must not restrict other software
--	The license must be technologically neutral
+    To get a code to be open source you must pass these 10 requirements:
+    -	Free redistribution
+    -	Source code
+    -	Derived works
+    -	Integrity of the source code of the author
+    -	Without discrimination of persons or groups
+    -	Distribution of the license
+    -	The license must not be specific to a product
+    -	The license must not restrict other software
+    -	The license must be technologically neutral
 
 
 ### Copyleft
