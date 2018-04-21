@@ -113,8 +113,10 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  
 ### MIT:
 
-Example of BSD license extracted from [open source](https://opensource.org/licenses/MIT)
-Copyright <YEAR> <COPYRIGHT HOLDER>
+The MIT license belongs to the free software group, in this permissive case, this means that it places very few limitations. Aside, it does not contain copyleft with what can be picked up by other users and modify it to put it to benefit.
+Example of MIT license extracted from [open source](https://opensource.org/licenses/MIT)
+
+Copyright [YEAR] [COPYRIGHT HOLDER]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
