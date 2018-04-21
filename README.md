@@ -6,7 +6,12 @@ subject Project 2, under supervision of lecturer
 
 # **Index:**
 
-* [What is a license]()
+* [What is a license?]()
+* [What is a software license?]()
+* [What types of license are there?]()
+  * [Free Software]()
+  * [Open Source]()
+  * [Copyleft]()
 
 
 ## **What is a license?**
@@ -53,6 +58,8 @@ To get a code to be open source you must pass these 10 requirements:
 When someone does a work automatically, they generate the author's rights, whether they want it or not. This is where copyleft appears.
 The copyleft is a legal strategy, "hack", is the strategy of reversing the restrictions established by copyright or copyright regulations. Applying copyleft, the only restriction imposed is that of not restricting.
 For example, if someone creates an open code and applies the copyleft, anyone can access this code, either to study or improve it. Once the new user has a new code and publishes it, that new code will have the same copyleft license, protecting the code so that it remains open.
+
+!["Copyleft"](https://www.google.es/search?q=ejemplo+copyleft&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjlt-Cp_cvaAhWLbhQKHfolBaYQ_AUICigB&biw=1536&bih=734#imgrc=ufnqV4DFmLtK0M:)
 
 
 
