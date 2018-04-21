@@ -16,6 +16,7 @@ subject Project 2, under supervision of lecturer
   * [MPL]()
   * [Software with Public Domain]()
   * [Software Semi-free]()
+* [Copyright]()
 
 
 ## **What is a license?**
@@ -114,6 +115,4 @@ This software can be obtained in more than one way:
 ![WINDOW](https://c.s-microsoft.com/es-es/CMSImages/Windows_Homepage_Icon_OS_1920.jpg?version=5ed8b4a9-95b2-f795-62c8-e0bc2ade742a)
 ![CC](http://iconshow.me/media/images/social/flat-style-Metro-UI-Icons/Applications/png/256/MetroUI-Adobe-Creative-Cloud.png)
 
-
-
-
+### Copyright
