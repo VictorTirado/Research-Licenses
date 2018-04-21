@@ -89,12 +89,20 @@ As with most licenses, it also allows the user who receives it to copy or even m
 
 For the owner's license, the user pays not to get the program but his activation license. This software does not belong to you, so you can not change the source code. Apart from this limitation, it can not be distributed without the permission of its owner.
 This software can be obtained in more than one way:
-- In a single payment: The case of Windows, the user pays when buying the computer and in case an update is removed, the Windows that user has will be updated without any cost.
-- Monthly: Programs such as Creative Cloud, when hiring this service the user is given the license to access all their programs for a certain amount of time. Once it expires, you must pay again if you want to continue using them.
+- **In a single payment**: The case of Windows, the user pays when buying the computer and in case an update is removed, the Windows that user has will be updated without any cost.
+- **Monthly**: Programs such as Creative Cloud, when hiring this service the user is given the license to access all their programs for a certain amount of time. Once it expires, you must pay again if you want to continue using them.
 
 ![WINDOW](https://c.s-microsoft.com/es-es/CMSImages/Windows_Homepage_Icon_OS_1920.jpg?version=5ed8b4a9-95b2-f795-62c8-e0bc2ade742a)
 ![CC](http://iconshow.me/media/images/social/flat-style-Metro-UI-Icons/Applications/png/256/MetroUI-Adobe-Creative-Cloud.png)
 
 ### Shareware
+The shareware license allows the user to use the programs for a limited or unlimited time but with restrictions. Therefore this license can be subdivided into:
+- **Trial:** is the name of the payment license that is given to a program that offers all its functions but only for a limited time, forcing the user to buy the license once the time expires.
+- **Demo:** The demo concept offers the user, for an unlimited time, most software functions.
+- **Adware:** Are the programs that have all their active functions in exchange for downloading advertising or do not offer their latest version, which needs to be purchased.
+
+![VIRTUAL_DJ](https://images.sftcdn.net/images/t_optimized,f_auto/p/bccf010c-96bf-11e6-a78f-00163ed833e7/1933779231/virtual-dj-logo.png)
+![WOW](https://seeklogo.com/images/W/world-of-warcraft-logo-B9B6FAA0CB-seeklogo.com.jpg)
+![ARES](http://www.ares.com.es/themes/seo/ares.com.es/images/logo.png)
 
 
