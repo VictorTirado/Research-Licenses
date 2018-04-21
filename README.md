@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Avaliable licenses
 
 “I am <link to your linkedIn>[Víctor Tirado](https://www.linkedin.com/in/v%C3%ADctor-tirado-fern%C3%A1ndez-68356215a/?trk=onboarding-landing&dl=no), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
 [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
-### Markdown
+# **Index:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [What is a license]()
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## **What is a license?:**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictorTirado/Research-Licenses/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
