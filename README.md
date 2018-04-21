@@ -62,7 +62,7 @@ While it is true that open source seeks more excellence, free software focuses m
     -	The license must be technologically neutral
 
 
-### Copyleft
+### Copyleft:
 When someone does a work automatically, they generate the author's rights, whether they want it or not. This is where copyleft appears.
 The copyleft is a legal strategy, "hack", is the strategy of reversing the restrictions established by copyright or copyright regulations. Applying copyleft, the only restriction imposed is that of not restricting.
 For example, if someone creates an open code and applies the copyleft, anyone can access this code, either to study or improve it. Once the new user has a new code and publishes it, that new code will have the same copyleft license, protecting the code so that it remains open.
