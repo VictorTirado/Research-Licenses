@@ -27,9 +27,7 @@ A software license is a contract between the licensor and the licensee of the co
 
 ### Free Software:
 
-First of all, to say that free software normally has no cost, although this is not always true. Once this is seen, it is necessary to put a little in context of where this [idea comes from](<iframe width="1519" height="550" src="https://www.youtube.com/embed/8SdPLG-_wtA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>).
-
-![]
+First of all, to say that free software normally has no cost, although this is not always true. Once this is seen, it is necessary to put a little in context of where this idea comes from
 
 For software to be free has to accomplish these four freedoms:
 - **Use**: Run the program as you want.
