@@ -248,7 +248,7 @@ As a clear example, the formula of Coca-Cola.
 It can be distinguished either by: words, slogans, letters, numbers, logos or numbers.
 To be able to register a trademark at the national level by submitting an application for registration in the national trademark office. If you want to internationally, you must submit an application for trademark registration with the trademark office of each country or use the WIPO Madrid system, which can reach up to 117 countries.
 
-![LOL](https://ih0.redbubble.net/image.413056780.7429/sticker,375x360-bg,ffffff.u1.png)
+![LOL](https://avatargarenanow-a.akamaihd.net/avatar/user/476/160/300160476.2315255808.jpg)
 Example of Trademark
 
 You look at how the IP's go. You can also apply all this in the world of video games.
@@ -264,5 +264,6 @@ You look at how the IP's go. You can also apply all this in the world of video g
 ||Deal terms|Box design||
 ||In-house development tools|Website design||
 
+This table has been extracted from wipo, click [here to see all article](http://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html)
 
 
