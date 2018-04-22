@@ -19,6 +19,7 @@ subject Project 2, under supervision of lecturer
   * [Software Semi-free]()
   * [Shareware]()
   * [Commercial Software License]()
+* [IP's]()
 * [Copyright]()
 
 
@@ -221,5 +222,14 @@ This software can be obtained in more than one way:
 
 ![WINDOW](https://c.s-microsoft.com/es-es/CMSImages/Windows_Homepage_Icon_OS_1920.jpg?version=5ed8b4a9-95b2-f795-62c8-e0bc2ade742a)
 ![CC](http://iconshow.me/media/images/social/flat-style-Metro-UI-Icons/Applications/png/256/MetroUI-Adobe-Creative-Cloud.png)
+
+### IP's
+In order to apply this concept in the field of videogames, we first need to know exactly what it means.
+According to the WIPO, World Intellectual Property Organization, they define intellectual property (IP's) as:
+Intellectual property refers to creations of the mind: inventions; literary and artistic works; and symbols, names and images used in commerce. Intellectual property is divided into two categories:
+Industrial Property includes patents for inventions, trademarks, industrial designs and geographical indications.
+Copyright covers literary works (such as novels, poems and plays), films, music, artistic works (e.g., drawings, paintings, photographs and sculptures) and architectural design.
+Rights related to copyright include those of performing artists in their performances, producers of phonograms in their recordings, and broadcasters in their radio and television programs.
+
 
 ### Copyright
