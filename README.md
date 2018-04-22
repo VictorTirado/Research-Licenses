@@ -18,7 +18,7 @@ subject Project 2, under supervision of lecturer
   * [Software with Public Domain]()
   * [Software Semi-free]()
   * [Shareware]()
-  * [Com](Commercial Software License)
+  * [Commercial Software License]()
 * [Copyright]()
 
 
