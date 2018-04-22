@@ -80,7 +80,9 @@ For example, if someone creates an open code and applies the copyleft, anyone ca
 
 !["Copyleft"](https://blog.carreralinux.com.ar/wp-content/uploads/2017/10/las-licencias-libres.png)
 
-### GPL:
+### GPL (General Public License):
+
+The GPL license was made by Richard Stallman for the [GNU](https://www.gnu.org/home.en.html) project. This license includes copyleft, so everyone will have the right to study such software, but once you have the new one and want to publish it, you will remain under that license.
 Example of GPL license extracted from [choose a license](https://choosealicense.com/licenses/gpl-3.0/):
 
 [program]  Copyright (C) [year] [name of author]
@@ -106,7 +108,7 @@ Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
 
-### BSD:
+### BSD (Berkeley Software Distribution):
 The BSD license is one of the most permissive that imposes few restrictions. One of the advantages is the power to market the software freely.
 Example of BSD license extracted from [wikipedia](https://en.wikipedia.org/wiki/BSD_licenses):
 
@@ -137,7 +139,7 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  
-### MIT:
+### MIT (Massachusetts Institute of Technology):
 
 The MIT license belongs to the free software group, in this permissive case, this means that it places very few limitations. Aside, it does not contain copyleft with what can be picked up by other users and modify it to put it to benefit.
 Example of MIT license extracted from [open source](https://opensource.org/licenses/MIT):
@@ -150,7 +152,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### MPL:
+### MPL (Mozilla Public License):
 Very similar to the BSD, this forces you to deliver the code to the original creator with the modifications.
 Example of MPLicense extracted from [eionet](https://www.eionet.europa.eu/software/license.html):
 
