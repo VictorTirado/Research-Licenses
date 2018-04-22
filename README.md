@@ -278,13 +278,13 @@ This table has been extracted from wipo, click [here to see all article](http://
 
 [GNU Documentation](https://www.gnu.org/education/education.en.html)
 
-[SOFTWARE LICENSE](http://www.businessdictionary.com/definition/software-license.html)
+[Software License](http://www.businessdictionary.com/definition/software-license.html)
 
 [License Types](https://www.informatica-hoy.com.ar/software-libre-gnu/Tipos-de-licencia-de-Software.php)
 
 [Open Source Documentation](https://opensource.org/faq#free-software)
 
-[CHOOSE LICENSE](https://choosealicense.com/licenses/)
+[Choose License](https://choosealicense.com/licenses/)
 
 [FSF](https://es.wikipedia.org/wiki/Free_Software_Foundation)
 
@@ -292,19 +292,21 @@ This table has been extracted from wipo, click [here to see all article](http://
 
 [COPYLEFT](https://en.wikipedia.org/wiki/Copyleft)
 
-[COPYLEFT DOCUMENTATION](https://www.copyleft.org/)
+[Copyleft Documentation](https://www.copyleft.org/)
 
-[MIT LICENSE](https://opensource.org/licenses/MIT)
+[MIT License](https://opensource.org/licenses/MIT)
 
-[BSD LICENSE](https://en.wikipedia.org/wiki/BSD_licenses)
+[BSD License](https://en.wikipedia.org/wiki/BSD_licenses)
 
-[APACHE LICENSE](http://www.apache.org/licenses/LICENSE-2.0)
+[APACHE License](http://www.apache.org/licenses/LICENSE-2.0)
 
-[WHAT IS AN IP?](http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf)
+[GPL License](https://www.gnu.org/licenses/gpl-howto.en.html)
+
+[What is an IP?](http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf)
 
 [WIPO](http://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html)
 
-[ARTICLE GAMASUTRA IP](https://www.gamasutra.com/view/news/120027/Analysis_Licensing_Third_Party_IP_for_your_Game__Where_To_Start.php)
+[Article Gamasutra IP](https://www.gamasutra.com/view/news/120027/Analysis_Licensing_Third_Party_IP_for_your_Game__Where_To_Start.php)
 
 
 
