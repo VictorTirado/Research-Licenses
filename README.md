@@ -230,6 +230,19 @@ Intellectual property refers to creations of the mind: inventions; literary and 
 Industrial Property includes patents for inventions, trademarks, industrial designs and geographical indications.
 Copyright covers literary works (such as novels, poems and plays), films, music, artistic works (e.g., drawings, paintings, photographs and sculptures) and architectural design.
 Rights related to copyright include those of performing artists in their performances, producers of phonograms in their recordings, and broadcasters in their radio and television programs.
+Now that we understand the concept of IP, why use it?
+There are 3 compelling points to use it:
+- **The progress of humiliation to create new inventions.**
+- **The legal protection of new creations.**
+- **The promotion of IP's helps in economic growth, creating jobs.**
+For more information about what they are and what they are used for [here](http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf)
+Once seen this, what types of IP's can we find?
+Mainly you can find five types:
+- **Patent:**
+- **Trade Secret:**
+- **Copyright:**
+- **Rights of publicity:**
+- **Trademark:**
 
 
 ### Copyright
