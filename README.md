@@ -232,18 +232,21 @@ Copyright covers literary works (such as novels, poems and plays), films, music,
 Rights related to copyright include those of performing artists in their performances, producers of phonograms in their recordings, and broadcasters in their radio and television programs.
 Now that we understand the concept of IP, why use it?
 There are 3 compelling points to use it:
-- **The progress of humiliation to create new inventions.**
+- **The progress of humanity to create new inventions.**
 - **The legal protection of new creations.**
 - **The promotion of IP's helps in economic growth, creating jobs.**
 For more information about what they are and what they are used for [here](http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf).
 
 Once seen this, what types of IP's can we find?
-Mainly you can find five types:
-- **Patent:**
-- **Trade Secret:**
+
+Mainly you can find four types:
+- **Patent:** A patent could be defined as inventing something new that helps to do something in an improved or new way. The patent is awarded to the developer of this new invention for a period of time, usually about 20.
+- **Trade Secret:** They are the confidential secrets to get a product. Normally very few people know them given to a non-disclosure agreement.
+As a clear example, the formula of Coca-Cola.
 - **Copyright:**
-- **Rights of publicity:**
-- **Trademark:**
+- **Trademark:** They can be defined as brands, they are signs that help the customer to distinguish and buy what product they want.
+It can be distinguished either by: words, slogans, letters, numbers, logos or numbers.
+[LOL](https://ih0.redbubble.net/image.413056780.7429/sticker,375x360-bg,ffffff.u1.png)
 
 
 ### Copyright
