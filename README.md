@@ -248,15 +248,15 @@ Mainly you can find four types:
 - **Trade Secret:** They are the confidential secrets to get a product. Normally very few people know them given to a non-disclosure agreement.
 As a clear example, the formula of Coca-Cola.
 - **Copyright:** Copyright is a term used that describes the rights that creators have over their works.
-There are two types of rights under copyright:
-- **Economic rights:** allow the author to take profit.
-- **Moral rights:** Protect the non-economic interests of the author.
+ There are two types of rights under copyright:
+  - **Economic rights:** allow the author to take profit.
+  - **Moral rights:** Protect the non-economic interests of the author.
 
-The owner has permission to prohibit or authorize:
-- Your translation.
-- Your adaptation.
-- To be publicly represented.
-- Its reproduction in various forms, either a recording or printed.
+ The owner has permission to prohibit or authorize:
+  - Your translation.
+  - Your adaptation.
+  - To be publicly represented.
+  - Its reproduction in various forms, either a recording or printed.
 
 - **Trademark:** They can be defined as brands, they are signs that help the customer to distinguish and buy what product they want.
 It can be distinguished either by: words, slogans, letters, numbers, logos or numbers.
