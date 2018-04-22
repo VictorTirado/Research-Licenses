@@ -251,5 +251,18 @@ To be able to register a trademark at the national level by submitting an applic
 ![LOL](https://ih0.redbubble.net/image.413056780.7429/sticker,375x360-bg,ffffff.u1.png)
 Example of Trademark
 
+You look at how the IP's go. You can also apply all this in the world of video games.
+
+|Patent|Trade Secret|Copyright|Trademark| 
+|:---------:|:---------:|:---------:|:---------:|
+|Hardware technical solutions|Customer mailing lists	| Music|Company name|
+|Inventive game play or game design elements	| Pricing information|Code|Company logo|
+|Technical innovations such as software, networking or database design	| Publisher contacts|Story|Game title|
+|	|Middleware contacts|Company name|Game subtitle|
+|	| Middleware contacts|Characters||
+||Developer contacts|Art||
+||Deal terms|Box design||
+||In-house development tools|Website design||
+
 
 
