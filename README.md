@@ -223,7 +223,7 @@ This software can be obtained in more than one way:
 ![WINDOW](https://c.s-microsoft.com/es-es/CMSImages/Windows_Homepage_Icon_OS_1920.jpg?version=5ed8b4a9-95b2-f795-62c8-e0bc2ade742a)
 ![CC](http://iconshow.me/media/images/social/flat-style-Metro-UI-Icons/Applications/png/256/MetroUI-Adobe-Creative-Cloud.png)
 
-### IP's
+## IP's
 In order to apply this concept in the field of videogames, we first need to know exactly what it means.
 According to the WIPO, World Intellectual Property Organization, they define intellectual property (IP's) as:
 Intellectual property refers to creations of the mind: inventions; literary and artistic works; and symbols, names and images used in commerce. Intellectual property is divided into two categories:
@@ -235,7 +235,8 @@ There are 3 compelling points to use it:
 - **The progress of humiliation to create new inventions.**
 - **The legal protection of new creations.**
 - **The promotion of IP's helps in economic growth, creating jobs.**
-For more information about what they are and what they are used for [here](http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf)
+For more information about what they are and what they are used for [here](http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf).
+
 Once seen this, what types of IP's can we find?
 Mainly you can find five types:
 - **Patent:**
