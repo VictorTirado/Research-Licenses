@@ -6,20 +6,23 @@ subject Project 2, under supervision of lecturer
 
 # **Index:**
 
-* [What is a license?]()
-* [What is a software license?]()
+* [What is a license?](https://github.com/VictorTirado/Research-Licenses#what-is-a-license)
+* [What is a software license?](https://github.com/VictorTirado/Research-Licenses#what-is-a-software-license)
 * [What types of license are there?]()
-  * [Free Software]()
-  * [Open Source]()
-  * [Copyleft]()
-  * [BSD]()
-  * [MIT]()
-  * [MPL]()
-  * [Software with Public Domain]()
-  * [Software Semi-free]()
-  * [Shareware]()
-  * [Commercial Software License]()
-* [IP's]()
+  * [Free Software](https://github.com/VictorTirado/Research-Licenses#free-software)
+  * [Open Source](https://github.com/VictorTirado/Research-Licenses#open-source)
+  * [Copyleft](https://github.com/VictorTirado/Research-Licenses#copyleft)
+  * [GPL](https://github.com/VictorTirado/Research-Licenses#gpl-general-public-license)
+  * [BSD](https://github.com/VictorTirado/Research-Licenses#gpl-general-public-license)
+  * [MIT](https://github.com/VictorTirado/Research-Licenses#mit-massachusetts-institute-of-technology)
+  * [Apache](https://github.com/VictorTirado/Research-Licenses#apache)
+  * [MPL](https://github.com/VictorTirado/Research-Licenses#mpl-mozilla-public-license)
+  * [Software with Public Domain](https://github.com/VictorTirado/Research-Licenses#software-with-public-domain)
+  * [Software Semi-free](https://github.com/VictorTirado/Research-Licenses#software-semi-free)
+  * [Shareware](https://github.com/VictorTirado/Research-Licenses#shareware)
+  * [Commercial Software License](https://github.com/VictorTirado/Research-Licenses#commercial-software-license)
+* [IP's](https://github.com/VictorTirado/Research-Licenses#ips)
+* [Bibliography](https://github.com/VictorTirado/Research-Licenses#bibliography)
 
 
 
