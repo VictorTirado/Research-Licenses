@@ -39,6 +39,7 @@ In a license there are two parts: the licensor and the client. Both must accept 
 A software license is a contract between the licensor and the licensee of the computer program, to use it complying with a series of terms and conditions established within its clauses, that is, it is a set of permissions that a developer can grant to a user in those who have the possibility of distributing, using or modifying the product under a certain license.
 
 ## **What types of license are there?**
+![BAR](https://github.com/VictorTirado/Research-Licenses/blob/master/license.png)
 
 ### Free Software:
 
