@@ -41,8 +41,7 @@ In a license there are two parts: the licensor and the client. Both must accept 
 
 A software license is a contract between the licensor and the licensee of the computer program, to use it complying with a series of terms and conditions established within its clauses, that is, it is a set of permissions that a developer can grant to a user in those who have the possibility of distributing, using or modifying the product under a certain license.
 
-## **What types of license are there?**
-![BAR](https://github.com/VictorTirado/Research-Licenses/blob/master/license.png)
+## **What types of software license are there?**
 
 ### Free Software:
 
@@ -156,9 +155,27 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+### Apache:
+The Apache license like the MIT or BSD is permissive, that means that the user can modify or distribute. The only requirement that the license requests is that a notice be kept for new users announcing the use of Apache-licensed code.
+Example of MPL extracted from [apache](http://www.apache.org/licenses/LICENSE-2.0):
+
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
 ### MPL (Mozilla Public License):
 Very similar to the BSD, this forces you to deliver the code to the original creator with the modifications.
-Example of MPLicense extracted from [eionet](https://www.eionet.europa.eu/software/license.html):
+Example of MPL extracted from [eionet](https://www.eionet.europa.eu/software/license.html):
 
 The contents of this file are subject to the Mozilla Public License Version 1.1 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at 
 http://www.mozilla.org/MPL/ 
