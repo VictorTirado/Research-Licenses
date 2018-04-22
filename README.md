@@ -8,7 +8,7 @@ subject Project 2, under supervision of lecturer
 
 * [What is a license?](https://github.com/VictorTirado/Research-Licenses#what-is-a-license)
 * [What is a software license?](https://github.com/VictorTirado/Research-Licenses#what-is-a-software-license)
-* [What types of license are there?]()
+* [What types of software license are there?](https://github.com/VictorTirado/Research-Licenses#what-types-of-software-license-are-there)
   * [Free Software](https://github.com/VictorTirado/Research-Licenses#free-software)
   * [Open Source](https://github.com/VictorTirado/Research-Licenses#open-source)
   * [Copyleft](https://github.com/VictorTirado/Research-Licenses#copyleft)
@@ -69,15 +69,16 @@ In 1998 a group of people, among them Bruce Perens or Eric Steven Raymond, creat
 While it is true that open source seeks more excellence, free software focuses more on user learning.
 
     To get a code to be open source you must pass these 10 requirements:
-    -	Free redistribution
-    -	Source code
-    -	Derived works
-    -	Integrity of the source code of the author
-    -	Without discrimination of persons or groups
-    -	Distribution of the license
-    -	The license must not be specific to a product
-    -	The license must not restrict other software
-    -	The license must be technologically neutral
+    -	Free distribution
+    - Source code
+    -Derived works
+    -Integrity of the author's source code
+    -No discrimination of people or groups
+    -Without discrimination of areas of initiative
+    -License distribution
+    -The license must not be specific to a product
+    -The license must not restrict other software
+    -The license must be technologically neutral
 
 
 ### Copyleft:
@@ -214,7 +215,7 @@ The shareware license allows the user to use the programs for a limited or unlim
 For the owner's license, the user pays not to get the program but his activation license. This software does not belong to you, so you can not change the source code. Apart from this limitation, it can not be distributed without the permission of its owner.
 This software can be obtained in more than one way:
 - **In a single payment**: The case of Windows, the user pays when buying the computer and in case an update is removed, the Windows that user has will be updated without any cost.
-- **Monthly**: Programs such as Creative Cloud, when hiring this service the user is given the license to access all their programs for a certain amount of time. Once it expires, you must pay again if you want to continue using them.
+- **Payments**: Programs such as Creative Cloud, when hiring this service the user is given the license to access all their programs for a certain amount of time. Once it expires, you must pay again if you want to continue using them.
 
 |Advantage|Disadvantages|
 |:---------:|:---------:|
