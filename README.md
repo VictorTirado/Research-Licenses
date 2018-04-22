@@ -254,7 +254,9 @@ To be able to register a trademark at the national level by submitting an applic
 ![LOL](https://avatargarenanow-a.akamaihd.net/avatar/user/476/160/300160476.2315255808.jpg)
 Example of Trademark
 
-You look at how the IP's go. You can also apply all this in the world of video games.
+You look at how the IP's go. You can also apply all this in the world of video games. It is said that an IP in video games is when the company creates a new game, this means that this game will have a music, characters, history, among other things only. As for example, it would be The last of Us.
+An example which would not be the new Call of Duty, from the first is when the saga begins so all are covered under the same IP.
+If the company is not able to produce any of the parts by itself, it will need the help of third parties, for which it must pay a license.
 
 |Patent|Trade Secret|Copyright|Trademark| 
 |:---------:|:---------:|:---------:|:---------:|
