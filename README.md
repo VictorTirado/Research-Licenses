@@ -246,7 +246,8 @@ As a clear example, the formula of Coca-Cola.
 - **Copyright:**
 - **Trademark:** They can be defined as brands, they are signs that help the customer to distinguish and buy what product they want.
 It can be distinguished either by: words, slogans, letters, numbers, logos or numbers.
-[LOL](https://ih0.redbubble.net/image.413056780.7429/sticker,375x360-bg,ffffff.u1.png)
+
+![LOL](https://ih0.redbubble.net/image.413056780.7429/sticker,375x360-bg,ffffff.u1.png)
 
 
 ### Copyright
