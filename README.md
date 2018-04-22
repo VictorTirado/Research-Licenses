@@ -275,21 +275,37 @@ This table has been extracted from wipo, click [here to see all article](http://
 ## Bibliography
 
 [Open Source vs Free Software](https://www.genbeta.com/a-fondo/cual-es-la-diferencia-entre-el-software-libre-y-el-open-source)
+
 [GNU Documentation](https://www.gnu.org/education/education.en.html)
+
 [SOFTWARE LICENSE](http://www.businessdictionary.com/definition/software-license.html)
+
 [License Types](https://www.informatica-hoy.com.ar/software-libre-gnu/Tipos-de-licencia-de-Software.php)
+
 [Open Source Documentation](https://opensource.org/faq#free-software)
+
 [CHOOSE LICENSE](https://choosealicense.com/licenses/)
+
 [FSF](https://es.wikipedia.org/wiki/Free_Software_Foundation)
+
 [Interview Richard Stallman](https://www.youtube.com/watch?v=8SdPLG-_wtA)
+
 [COPYLEFT](https://en.wikipedia.org/wiki/Copyleft)
+
 [COPYLEFT DOCUMENTATION](https://www.copyleft.org/)
+
 [MIT LICENSE](https://opensource.org/licenses/MIT)
+
 [BSD LICENSE](https://en.wikipedia.org/wiki/BSD_licenses)
+
 [APACHE LICENSE](http://www.apache.org/licenses/LICENSE-2.0)
+
 [WHAT IS AN IP?](http://www.wipo.int/edocs/pubdocs/en/intproperty/450/wipo_pub_450.pdf)
+
 [WIPO](http://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html)
+
 [ARTICLE GAMASUTRA IP](https://www.gamasutra.com/view/news/120027/Analysis_Licensing_Third_Party_IP_for_your_Game__Where_To_Start.php)
+
 
 
 
