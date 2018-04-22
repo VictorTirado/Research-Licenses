@@ -267,4 +267,6 @@ You look at how the IP's go. You can also apply all this in the world of video g
 This table has been extracted from wipo, click [here to see all article](http://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html)
 
 
-## B
+## Bibliography
+
+
