@@ -13,9 +13,12 @@ subject Project 2, under supervision of lecturer
   * [Open Source]()
   * [Copyleft]()
   * [BSD]()
+  * [MIT]()
   * [MPL]()
   * [Software with Public Domain]()
   * [Software Semi-free]()
+  * [Shareware]()
+  * [Com](Commercial Software License)
 * [Copyright]()
 
 
@@ -30,7 +33,7 @@ In a license there are two parts: the licensor and the client. Both must accept 
 - Warranty
 - Intellectual property
 - Confidentiality
-- Resolution:
+- Resolution
 - Jurisdiction and applicable regulations
 
 
