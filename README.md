@@ -246,8 +246,10 @@ As a clear example, the formula of Coca-Cola.
 - **Copyright:**
 - **Trademark:** They can be defined as brands, they are signs that help the customer to distinguish and buy what product they want.
 It can be distinguished either by: words, slogans, letters, numbers, logos or numbers.
+To be able to register a trademark at the national level by submitting an application for registration in the national trademark office. If you want to internationally, you must submit an application for trademark registration with the trademark office of each country or use the WIPO Madrid system, which can reach up to 117 countries.
 
 ![LOL](https://ih0.redbubble.net/image.413056780.7429/sticker,375x360-bg,ffffff.u1.png)
+Example of Trademark
 
 
 ### Copyright
