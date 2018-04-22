@@ -257,6 +257,7 @@ The owner has permission to prohibit or authorize:
 - Your adaptation.
 - To be publicly represented.
 - Its reproduction in various forms, either a recording or printed.
+
 - **Trademark:** They can be defined as brands, they are signs that help the customer to distinguish and buy what product they want.
 It can be distinguished either by: words, slogans, letters, numbers, logos or numbers.
 To be able to register a trademark at the national level by submitting an application for registration in the national trademark office. If you want to internationally, you must submit an application for trademark registration with the trademark office of each country or use the WIPO Madrid system, which can reach up to 117 countries.
